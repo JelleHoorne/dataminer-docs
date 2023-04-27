@@ -18,6 +18,9 @@ To define a toggle button, set Type to "togglebutton", and provide a discrete li
       <LengthType>next param</LengthType>
       <Type>double</Type>
    </Interprete>
+   <Display>
+		<RTDisplay>true</RTDisplay>
+	</Display>
   <Measurement>
      <Type>discreet</Type>
      <Discreets>
@@ -41,6 +44,9 @@ To define a toggle button, set Type to "togglebutton", and provide a discrete li
       <LengthType>next param</LengthType>
       <Type>double</Type>
    </Interprete>
+   <Display>
+		<RTDisplay>true</RTDisplay>
+	</Display>
   <Measurement>
      <Type>togglebutton</Type>
      <Discreets>
